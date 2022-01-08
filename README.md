@@ -1,1 +1,3 @@
 # NgaTatPyar
+Not Ready !
+Danger !!! 
