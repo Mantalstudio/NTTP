@@ -1,3 +1,3 @@
-# NgaTatPyar
+# NTP
 ***Not Ready !***
 *Danger !!!* 
