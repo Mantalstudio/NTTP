@@ -1,5 +1,10 @@
-#/!/bash/python
-#code=utf-8
+
+#coding=utf-8
+
+#!/usr/bin/python2
+
+#decompile by BabyDragon
+
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 
 from multiprocessing.pool import ThreadPool
