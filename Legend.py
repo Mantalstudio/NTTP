@@ -1,4 +1,4 @@
-551 lines (499 sloc)  21.3 KB
+
 #!/usr/bin/python2
 #coding=utf-8
 #The Credit For This Code Goes to Adil Khani
@@ -191,8 +191,8 @@ Coded By Adil Durranian
 
 "
 
-CorrectUsername = "Adil"
-CorrectPassword = "TheLegend"
+CorrectUsername = marmu"
+CorrectPassword = "Myanmar"
 
 loop = 'true'
 while (loop == 'true'):
@@ -542,4 +542,4 @@ def pilih_super():
 
 if __name__ == '__main__':
 	login()
-© 2022 GitHub, Inc.
+
