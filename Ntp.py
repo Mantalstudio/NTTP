@@ -6,11 +6,8 @@
 #decompile by BabyDragon
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
-
 from multiprocessing.pool import ThreadPool
-
 from requests.exceptions import ConnectionError
-
 from mechanize import Browser
 
 reload(sys)
@@ -123,7 +120,8 @@ print  """\033[1;91m=======================================
 
 print " \x1b[1;93m============================================================="
 
-Correct"
+CorrectUsername = "Baby"
+CorrectPassword = "Dragon"
 
 loop = 'true'
 
@@ -167,8 +165,6 @@ def login():
 		os.system('clear')
 
 		print logo
-
-		print 42*"\033[1;96m="
 
 		print('\033[1;96m\x1b[1;93mLOGIN WITH FACEBOOK \x1b[1;96m' )
 
