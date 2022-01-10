@@ -90,7 +90,7 @@ def tik():
 
 	for o in titik:
 
-		print logo
+		print log.
 
 		print("\r\033[1;96m \x1b[1;93mSedang masuk \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 
@@ -123,9 +123,7 @@ print  """\033[1;91m=======================================
 
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "Alex"
-
-CorrectPassword = "Zain"
+Correct"
 
 loop = 'true'
 
@@ -150,7 +148,6 @@ while (loop == 'true'):
             os.system('xdg-open https://www.facebook.com/Anonymoustricker1')
 
     else:
-
         print "Wrong Username"
 
         os.system('xdg-open https://www.facebook.com/Anonymoustricker1')
