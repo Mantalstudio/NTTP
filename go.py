@@ -131,7 +131,7 @@ def login():
 		try:
 			br.open('https://m.facebook.com')
 		except mechanize.URLError:
-print"\n\x1b[1;96mThere is no internet connection"
+                        print"\n\x1b[1;96mThere is no internet connection"
 			keluar()
 		br._factory.is_html = True
 		br.select_form(nr=0)
