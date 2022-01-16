@@ -237,9 +237,9 @@ logo2 = """
 \033[1;97m----------------------\x1b[1;96mHAMII DEVIL--------------------
 """
 
-CorrectUsername = "MARMU"
+CorrectUsername = "M4RMU"
 
-CorrectPassword = "MYANMAR"
+CorrectPassword = "MY4NM4R"
 
  
 
