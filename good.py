@@ -59,7 +59,7 @@ logo = """
 \033[1;91m╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝░╚═════╝░      
 \033[1;94m   New Version1.0　 
 \033[1;97m　 Author: M4RMU
-\033[1;95m　 Brand : B4BY DR4G0N """                            
+\033[1;95m　 Brand : BABY DR4G0N """                            
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -136,9 +136,9 @@ CorrectPassword = "DR4GON"
 
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\033[1;91m📋 \x1b[1;95mTool Username \x1b[1;91m»» \x1b[1;91m")
+    username = raw_input("\033[1;91m📋 \x1b[1;96mTool Username \x1b[1;97m»» \x1b[1;91m")
     if (username == CorrectUsername):
-    	password = raw_input("\033[1;91m🗝 \x1b[1;95mTool Password \x1b[1;91m»» \x1b[1;91m")
+    	password = raw_input("\033[1;91m🗝 \x1b[1;96mTool Password \x1b[1;97m»» \x1b[1;91m")
         if (password == CorrectPassword):
             print "Logged in successfully as " + username #Dev:love_hacker
 	    time.sleep(2)
