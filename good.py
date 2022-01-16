@@ -490,7 +490,7 @@ def pilih_super():
 									                               print '\x1b[1;91m[•✿•] \x1b[1;91mID \x1b[1;91m      : \x1b[1;91m' + user				
 									                               print '\x1b[1;91m[•✿•] \x1b[1;91mPasswordp1\x1b[1;93mPassword \x1b[1;93m: \x1b[1;93m' + pass7 + '\n'
                                                                                                        oks.append(user+pass7)
-                                                                                                else:
+                                                                                               else:
 			                                                                               if 'www.facebook.com' in q["error_msg"]:
 				                                                                           print '\x1b[1;93m[ 👹 ] \x1b[1;96mCheckpoint'
 				                                                                           print '\x1b[1;93m[•⊱⊰•] \x1b[1;93mName \x1b[1;93m    : \x1b[1;93m' + b['name']
