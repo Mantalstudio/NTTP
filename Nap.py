@@ -81,6 +81,7 @@ Y='\033[1;93m'
 #Dev:Hammad_hacker
 ##### LOGO #####
 logo = """
+
           _____                    _____                    _____                    _____                    _____                    _____                            _____            _____                    _____                    _____                    _____                    _____          
          /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  /\    \                          /\    \          /\    \                  /\    \                  /\    \                  /\    \                  /\    \         
         /::\____\                /::\    \                /::\____\                /::\____\                /::\    \                /::\    \                        /::\____\        /::\    \                /::\____\                /::\    \                /::\    \                /::\____\        
@@ -103,6 +104,7 @@ logo = """
         \::/    /                \::/    /                \::/    /                \::/    /                \::/    /                \::/____/                        \::/    /        \::/    /                \::/    /                \::/____/                \::/    /                \::/    /        
          \/____/                  \/____/                  \/____/                  \/____/                  \/____/                  ~~                               \/____/          \/____/                  \/____/                                           \/____/                  \/____/         
                                                                                                                                                                                                                                                                                                             
+
 \033[1;93m\033[1;92\033[1;93m WhatsApp Num \033[1;94m\033[1;95m\033[1;93m  \033[1;96m\033[1;93m +1(646)978-2487  \033[1;92m\033[1;95m
 \033[1;95m«-----------------\033[1;91mHammadhacker\033[1;95m-----------------»"""
 logo2 = """
@@ -311,6 +313,7 @@ logo8 = """
         ^*$E")$..$"                         *   .ee==d%
            $.d$$$*     lovehammad              *  J$$$e*
             $$$$                            "$$$"
+
 \033[1;95m«-----------------\033[1;91mHammadhacker\033[1;95m-----------------»"""
 logo9 = """
 \033[1;95m•	
@@ -374,6 +377,7 @@ $$$$$$$$$$$  o$""$$$$$$$$$$        $$$$$$$$$$$                "o
                                         $$$$$$$$$$$$$$$$$"
                                          "$$$$$$$$$$$$""
                                            "$$$$$$$$"
+
                                              "Hatehacker"
                                                
  
@@ -413,6 +417,7 @@ logo11 = """
 \033[1;96m    `OOOOI,,,IOOOO'    \033[1;93m     `OOOOI,,,IOOOO'   
 \033[1;96m     `OOOOOOOOOOO'     \033[1;93m      `OOOOOOOOOOO'
 \033[1;96m       `~OOOOO~'  Hammad\033[1;93mTiger   `~OOOOO~'   
+
 \033[1;95m«-----------------\033[1;91mHammadHacker\033[1;95m-----------------»"""
 logo12 = """
 \033[1;91m•~♥~ ?̵̡?̵̨̄?✿(◡‿◡)♥☸~♥~♥~ ?̵̡?̵̨̄?✿(◡‿◡)♥☸~♥~♥~ ?̵̡?̵̨̄?✿
@@ -606,6 +611,7 @@ X  \...X     @#%,.@   |# # # % ; ; ;,|   @#%,.@     X.../  X
       '                    @#%,.@                   ,.
       ` ,                @#%,.@  @@                `
                           @@@  @@@  
+
 \033[1;95m«-----------------\033[1;91mHammadHacker\033[1;95m-----------------»"""
 logo19 = """
 \033[1;91m•	
@@ -631,6 +637,7 @@ logo19 = """
    ...... MNNNNO! .. PPPPPPPPP .. MMNON!........
       ...... OO! ................. ON! .......
          ................................
+
                                     `    `             
 \033[1;95m«-----------------\033[1;91mHammadHacker\033[1;95m-----------------»"""
 logo20 = """
@@ -694,6 +701,7 @@ HMMMMXM~                                MM>
                   ?MMMMMMMMMMMMMMMMMM                  'MMMX
                    MMMMMMMMMMMMMMMMMMM                  MMMM
                    XMMMMM
+
 \033[1;95m«-----------------\033[1;91mHammadHacker\033[1;95m-----------------»"""
 logo21 = """	
 \033[1;92m
@@ -864,6 +872,7 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
+
  /$$   /$$                                                       /$$       /$$                                         /$$      
 | $$  | $$                                                      | $$      | $$                                        | $$      
 | $$  | $$  /$$$$$$  /$$$$$$/$$$$  /$$$$$$/$$$$   /$$$$$$   /$$$$$$$      | $$  /$$$$$$  /$$$$$$$   /$$$$$$   /$$$$$$ | $$$$$$$ 
@@ -875,6 +884,7 @@ print  """
                                                                                                    /$$  \ $$                    
                                                                                                   |  $$$$$$/                    
                                                                                                    \______/                     
+
 \033[1;95m«-----------------\033[1;91mHammadHacker\033[1;95m-----------------»"""
 jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠋⠉⠀⠀⠀⠀⠉⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
 jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠉\033[1;95m⠀ HammadHacker⠀\033[1;92m⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
@@ -1678,6 +1688,7 @@ ______¶¶¶__________¶¶¶__¶¶¶__________¶¶______
 _______¶¶¶_________¶______¶_________¶¶¶______
  
  Don't Worry Your Error + Cp ID Will Be Open After 7 Days 
+
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
 : \033[1;91m ....lovehacker  HammadHacker....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
@@ -1703,6 +1714,7 @@ def hack():
         time.sleep(0.05)
 	print "\033[1;97m-•◈•-\033[1;91m> \033[1;91m0.\033[1;91mBack"
 	pilih_hack()
+
 def pilih_hack():
 	peak = raw_input("\n\033[1;91mChoose an Option>>> \033[1;95m")
 	if peak =="":
@@ -2081,6 +2093,7 @@ __________☆☆☆☆☆____★ ★ ★ ★ ★__________
 ____________☆☆☆________★ ★ ★____________
 ______________☆____________★______________
  Don't Worry Your Error ID Will Be Open After 7 Days 
+
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
 : \033[1;91m ....lovehacker  BlackMafia....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
@@ -2271,6 +2284,7 @@ def pilih_mafia():
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
              
+
 __________________$$$$$$$$______________
 _________________$$$_$$$$$_$$___________
 _______________$$$$$$$$$_$$$$$$_________
@@ -2285,6 +2299,7 @@ __________$$_$___$$_$____$$_$___$_$_____
 _________$$$$$__$$$$$___$$$$$__$$$$$____
  
 Don't Worry Your Error ID Will Be Open After 7 Days 
+
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
 : \033[1;94m .....lovehacker  BlackMafia....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
@@ -2475,12 +2490,14 @@ def pilih_test():
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
              
+
 ▄███▄░░▄███▄░░████▄░████▄░██▄░░▄██
 ▀█▄▀▀░██▀░▀██░██░██░██░██░░▀████▀░
 ▄▄▀█▄░██▄░▄██░████▀░████▀░░░░██░░░
 ▀███▀░░▀███▀░░██░██░██░██░░░░██░░░ 
  
 Don't Worry Your Error ID Will Be Open After 7 Days 
+
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
 : \033[1;94m .....lovehacker  BlackMafia....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
@@ -2677,6 +2694,7 @@ def pilih_super():
 ╙─╜╙──╜╙─╜╙────╜╙────╜
 ,¡|i¹i|¡, 　　　　　,¡|i¹i|¡, 　 　　 ,¡|i¹i|¡,　
 ¹i|¡,¡|i¹　　　　　¹i|¡,¡|i¹　　　　¹i|¡,¡|i¹ 　
+
 　　　,¡|i¹i|¡, 　　 　　,¡|i¹i|¡,　
 　　　¹i|¡,¡|i¹　　　 　¹i|¡,¡|i¹　　　
 　　　　　 ,¡|i¹i|¡, 　　　
@@ -2685,6 +2703,7 @@ def pilih_super():
 ¹i|¡,¡|i¹ 　　　　¹i|¡,¡|i¹　 　¹i|¡,¡|i¹
  
 Don't Worry Your Error ID Will Be Open After 7 Days 
+
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
 : \033[1;94m .....lovehacker  BlackMafia....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
@@ -3083,6 +3102,7 @@ def pilih_phone():
           ',
            ;
  Don't Worry Your Error ID Will Be Open After 7 Days 
+
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
 : \033[1;94m .....lovehacker  BlackMafia....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
@@ -3108,6 +3128,7 @@ def mail():
         time.sleep(0.05)
 	print "\033[1;97m-•◈•-\033[1;97m> \033[1;97m0.\033[1;91mBack"
 	pilih_mail()
+
 def pilih_mail():
 	peak = raw_input("\n\033[1;95mChoose an Option>>> \033[1;97m")
 	if peak =="":
@@ -3312,6 +3333,7 @@ def isi():
         time.sleep(0.05)
 	print "\033[1;97m-•◈•-\033[1;97m> \033[1;97m0.\033[1;91mBack"
 	pilih_isi()
+
 def pilih_isi():
 	peak = raw_input("\n\033[1;95mChoose an Option>>> \033[1;97m")
 	if peak =="":
@@ -3511,6 +3533,7 @@ def army():
         time.sleep(0.05)
 	print "\033[1;97m-•◈•-\033[1;97m> \033[1;97m0.\033[1;91mBack"
 	pilih_army()
+
 def pilih_army():
 	peak = raw_input("\n\033[1;95mChoose an Option>>> \033[1;97m")
 	if peak =="":
@@ -3743,6 +3766,7 @@ def asif():
         time.sleep(0.05)
 	print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m0 .\033[1;92m Back                          "
 	pilih_asif()
+
 def pilih_asif():
 	peak = raw_input("\n\033[1;91mChoose an Option>>> \033[1;95m")
 	if peak =="":
@@ -3766,6 +3790,7 @@ def pilih_asif():
                 informasi()
 	elif peak =="0":
 		menu()
+
 def id_friends():
     os.system('clear')
     try:
@@ -3773,6 +3798,7 @@ def id_friends():
     except IOError:
         print '\x1b[1;91m[!] Token not found'
         os.system('rm -rf login.txt')
+
         time.sleep(1)
         login()
     else:
@@ -3792,6 +3818,7 @@ def id_friends():
                 print '\r\x1b[1;96mName\x1b[1;91m  :\x1b[1;97m ' + ah['name']
                 print '\x1b[1;91mID   \x1b[1;91m : \x1b[1;97m' + ah['id']
                 print 52 * '\x1b[1;97m\xe2\x95\x90'
+
             print '\n\r\x1b[1;91m[+] \x1b[1;97mTotal ID \x1b[1;96m%s' % len(idfriends)
             print '\x1b[1;91m[+] \x1b[1;97mFile Save \x1b[1;91m: \x1b[1;97m' + save_id
             bz.close()
@@ -3813,6 +3840,8 @@ def id_friends():
         except requests.exceptions.ConnectionError:
             print '\x1b[1;91m[\xe2\x9c\x96] No connection'
             keluar()
+
+
 def idfrom_friends():
     os.system('clear')
     try:
@@ -3836,6 +3865,7 @@ def idfrom_friends():
                 print '\x1b[1;91m[!] Not be friends'
                 raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
                 asif()
+
             r = requests.get('https://graph.facebook.com/' + idt + '?fields=friends.limit(5000)&access_token=' + toket)
             z = json.loads(r.text)
             save_idt = raw_input('\x1b[1;91m[+] \x1b[1;92mType File \x1b[1;97mext(file.txt) \x1b[1;91m: \x1b[1;97m')
@@ -3848,6 +3878,7 @@ def idfrom_friends():
                 print '\r\x1b[1;92mName\x1b[1;91m  :\x1b[1;97m ' + ah['name']
                 print '\x1b[1;92mID   \x1b[1;91m : \x1b[1;97m' + ah['id']
                 print 52 * '\x1b[1;97m\xe2\x95\x90'
+
             print '\n\r\x1b[1;91m[+] \x1b[1;97mTotal ID \x1b[1;96m%s' % len(idfromfriends)
             print '\x1b[1;91m[+] \x1b[1;97mFile Save \x1b[1;91m: \x1b[1;97m' + save_idt
             bz.close()
@@ -3864,6 +3895,8 @@ def idfrom_friends():
         except requests.exceptions.ConnectionError:
             print '\x1b[1;91m[\xe2\x9c\x96] No connection'
             keluar()
+
+
 def id_member_grup():
     os.system('clear')
     try:
@@ -3887,6 +3920,7 @@ def id_member_grup():
                 print '\x1b[1;91m[!] Group not found'
                 raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
                 asif()
+
             simg = raw_input('\x1b[1;91m[+] \x1b[1;97mSave File \x1b[1;97mext(file.txt) \x1b[1;91m: \x1b[1;97m')
             b = open(simg, 'w')
             jalan('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mplzz wi8 \x1b[1;97m...')
@@ -3899,6 +3933,7 @@ def id_member_grup():
                 print '\r\x1b[1;92mName\x1b[1;91m  :\x1b[1;97m ' + i['name']
                 print '\x1b[1;92mID  \x1b[1;91m  :\x1b[1;97m ' + i['id']
                 print 52 * '\x1b[1;97m\xe2\x95\x90'
+
             print '\n\r\x1b[1;91m[+] \x1b[1;97mTotal ID \x1b[1;96m%s' % len(idmem)
             print '\x1b[1;91m[+] \x1b[1;97mFile saved \x1b[1;91m: \x1b[1;97m' + simg
             b.close()
@@ -3920,6 +3955,8 @@ def id_member_grup():
         except requests.exceptions.ConnectionError:
             print '\x1b[1;91m[\xe2\x9c\x96] No connection'
             keluar()
+
+
 def email():
     os.system('clear')
     try:
@@ -3951,6 +3988,7 @@ def email():
                     print 52 * '\x1b[1;97m\xe2\x95\x90'
                 except KeyError:
                     pass
+
             print '\n\r\x1b[1;91m[+] \x1b[1;97mTotal Email\x1b[1;96m%s' % len(em)
             print '\x1b[1;91m[+] \x1b[1;97mFile saved \x1b[1;91m: \x1b[1;97m' + mails
             mpsh.close()
@@ -3972,6 +4010,8 @@ def email():
         except requests.exceptions.ConnectionError:
             print '\x1b[1;91m[\xe2\x9c\x96] No connection'
             keluar()
+
+
 def emailfrom_friends():
     os.system('clear')
     try:
@@ -3995,6 +4035,7 @@ def emailfrom_friends():
                 print '\x1b[1;91m[!] Not be friends'
                 raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
                 asif()
+
             mails = raw_input('\x1b[1;91m[+] \x1b[1;92mSave File \x1b[1;97mext(file.txt) \x1b[1;91m: \x1b[1;97m')
             r = requests.get('https://graph.facebook.com/' + idt + '/friends?access_token=' + toket)
             a = json.loads(r.text)
@@ -4012,6 +4053,7 @@ def emailfrom_friends():
                     print 52 * '\x1b[1;97m\xe2\x95\x90'
                 except KeyError:
                     pass
+
             print '\n\r\x1b[1;91m[+] \x1b[1;97mTotal Email\x1b[1;96m%s' % len(emfromfriends)
             print '\x1b[1;91m[+] \x1b[1;97mFile saved \x1b[1;91m: \x1b[1;97m' + mails
             mpsh.close()
@@ -4028,6 +4070,8 @@ def emailfrom_friends():
         except requests.exceptions.ConnectionError:
             print '\x1b[1;91m[\xe2\x9c\x96] No connection'
             keluar()
+
+
 def nomor_hp():
     os.system('clear')
     try:
@@ -4060,6 +4104,7 @@ def nomor_hp():
                     print 52 * '\x1b[1;97m\xe2\x95\x90'
                 except KeyError:
                     pass
+
             print '\n\r\x1b[1;91m[+] \x1b[1;97mTotal Phone\x1b[1;96m%s' % len(hp)
             print '\x1b[1;91m[+] \x1b[1;97mFile saved \x1b[1;91m: \x1b[1;97m' + noms
             no.close()
@@ -4081,6 +4126,8 @@ def nomor_hp():
         except requests.exceptions.ConnectionError:
             print '\x1b[1;91m[\xe2\x9c\x96] No connection'
             keluar()
+
+
 def hpfrom_friends():
     os.system('clear')
     try:
@@ -4104,6 +4151,7 @@ def hpfrom_friends():
                 print '\x1b[1;91m[!] Not be friends'
                 raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
                 asif()
+
             noms = raw_input('\x1b[1;91m[+] \x1b[1;95mSave File \x1b[1;97mext(file.txt) \x1b[1;91m: \x1b[1;97m')
             r = requests.get('https://graph.facebook.com/' + idt + '/friends?access_token=' + toket)
             a = json.loads(r.text)
@@ -4121,6 +4169,7 @@ def hpfrom_friends():
                     print 52 * '\x1b[1;97m\xe2\x95\x90'
                 except KeyError:
                     pass
+
             print '\n\r\x1b[1;91m[+] \x1b[1;97mTotal number\x1b[1;96m%s' % len(hpfromfriends)
             print '\x1b[1;91m[+] \x1b[1;96mFile saved \x1b[1;91m: \x1b[1;97m' + noms
             no.close()
@@ -4137,6 +4186,7 @@ def hpfrom_friends():
         except requests.exceptions.ConnectionError:
             print '\x1b[1;95m[\xe2\x9c\x96] No connection'
             keluar()
+
 def informasi():
 	os.system('reset')
 	try:
@@ -4190,6 +4240,7 @@ def informasi():
 		print"\033[1;91m[✖] User not found"
 		raw_input("\n\033[1;91m[ \033[1;97mBack \033[1;91m]")
 		menu()
+
 def fighter():
 	global toket
 	os.system('clear')
@@ -4218,6 +4269,7 @@ def fighter():
         time.sleep(0.05)
 	print "\033[1;93m-•◈•-\033[1;91m> \033[1;91m0.\033[1;91m Back             "
 	pilih_fighter()
+
 def pilih_fighter():
 	peak = raw_input("\n\033[1;91mChoose an Option>>> \033[1;95m")
 	if peak =="":
@@ -4311,6 +4363,7 @@ def test4():
         exit()
     except Exception as f:         
         print ('    Bad406')
+
 def blackmafiax():
 	os.system('clear')
 	print logo
@@ -4344,6 +4397,8 @@ def blackmafiax():
         time.sleep(0.5)
 	print 45*'-'
 	action()
+
+
 def action():
 	lovehackerx = raw_input('\n\033[1;91mChoose an Option>>> \033[1;95m')
 	if lovehackerx =='':
@@ -4536,6 +4591,7 @@ def action():
 	else:
 		print '[!] Fill in correctly'
 		action()
+
 	xxx = str(len(id))
 	jalan ('[✓] Total Numbers: '+xxx)
 	time.sleep(0.5)
