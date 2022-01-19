@@ -75,10 +75,7 @@ def hasil(ngocok,ismylife):
 def logo():
 	os.system("clear")
 	print("""
-\033[1;92m....    New Version1.0　 
-\033[1;97m....　 Author: BABY DRAGON
-\033[1;95m....　 Creation: MARMU
-\033[1;96m.... тεcнησℓσgү вү мαямυ """)
+                   \033[1;95m....Creation: M A R M U.... """)
 class about:
 	def __init__(self,url):
 		self.url=url
