@@ -57,8 +57,8 @@ useragents = 'Mozilla/5.0 (Linux; Android 10; Redmi Note 7) AppleWebKit/537.36 (
 'Mozilla/5.0 (Linux; Android 8.1.0; Redmi 5 Build/OPM1.171019.026; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/73.0.3683.90 Mobile Safari/537.36 [FBAN/EMA;FBLC/it_IT;FBAV/240.0.0.9.115;]','Mozilla/5.0 (Linux; U; Android 10; en-US; Redmi Note 7 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 UCBrowser/13.4.0.1306 Mobile Safari/537.36 [FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]'
 ct = datetime.now()
 n = ct.month
-#bulan1 = [    'Januari',   'Februari',    'Maret',    'April',    'Mei',    'Juni',    'Juli',    'Agustus',    'September',    'Oktober',    'Nopember',    'Desember']
-bulan1 = [    'January',   'February',    'March',    'April',    'May',    'Jun',    'July',    'August',    'September',    'October',    'November',    'December']
+bulan1 = [    'Januari',   'Februari',    'Maret',    'April',    'Mei',    'Juni',    'Juli',    'Agustus',    'September',    'Oktober',    'Nopember',    'Desember']
+#bulan1 = [    'January',   'February',    'March',    'April',    'May',    'Jun',    'July',    'August',    'September',    'October',    'November',    'December']
 
 
    
@@ -83,18 +83,18 @@ op = bulan1[nTemp]
 reload(sys)
 sys.setdefaultencoding('utf-8')
 bulan = {
-        "01": "January", #Januari",
-        "02": "February", #Februari",
-        "03": "March",   #Maret",
-        "04": "April",   #April",
-        "05": "May",     #Mei",
-        "06": "Jun",      #Juni",
-        "07": "July",     #Juli",
-        "08": "August",    #Agustus",
-        "09": "September",  #September",
-        "10": "November",    #November",
-        "11": "October",     #Oktober",
-        "12": "December"     #Desember"
+        "01": "Januari",
+        "02": "Februari",
+        "03": "Maret",
+        "04": "April",
+        "05": "Mei",
+        "06": "Juni",
+        "07": "Juli",
+        "08": "Agustus",
+        "09": "September",
+        "10": "November",
+        "11": "Oktober",
+        "12": "Desember"
 }
 
 
